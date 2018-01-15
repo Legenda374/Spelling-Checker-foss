@@ -1,0 +1,10 @@
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\bin\Debug\SpellingChecker.exe.config
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\bin\Debug\SpellingChecker.exe
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\bin\Debug\SpellingChecker.pdb
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\obj\Debug\SpellingChecker.csprojResolveAssemblyReference.cache
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\obj\Debug\SpellingChecker.Form1.resources
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\obj\Debug\SpellingChecker.Properties.Resources.resources
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\obj\Debug\SpellingChecker.csproj.GenerateResource.Cache
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\obj\Debug\SpellingChecker.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\obj\Debug\SpellingChecker.exe
+C:\Users\Artur\source\repos\SpellingChecker\SpellingChecker\obj\Debug\SpellingChecker.pdb
